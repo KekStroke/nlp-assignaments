@@ -1,5 +1,7 @@
 env/**
 lab01_class.ipynb
 
-assignment3/public_data
+assignment3/data
+assignment3/results
+
 **/__pycache__/**
