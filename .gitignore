@@ -2,6 +2,7 @@ env/**
 lab01_class.ipynb
 
 assignment3/data
-assignment3/results
+assignment3/test.jsonl
+assignment3/test.zip
 
 **/__pycache__/**
